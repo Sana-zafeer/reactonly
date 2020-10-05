@@ -1,0 +1,13 @@
+
+.rail-container{
+    margin-top: 4%;
+}
+
+
+.rail{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
